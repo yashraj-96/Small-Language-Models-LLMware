@@ -1,6 +1,6 @@
 import streamlit as st
 
-from llmware_module import (
+from slm_functions import (
     classify_sentiment,
     detect_emotions,
     generate_tags,
