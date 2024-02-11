@@ -4,6 +4,8 @@ SLIM Models by LLMWare. A streamlit app showing the capabilities for AI Agents a
 
 ![alt text](https://github.com/yashraj-96/Small-Language-Models-LLMware/blob/main/repo_pic.jpg)
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 Script [ app.py ]
 
 The provided code is a Streamlit web application that allows users to input text and select various language analysis tools to apply to the text. After clicking the "Analyze" button, the selected tools are executed, and the results are displayed in JSON format.
@@ -16,6 +18,7 @@ In summary:
 
 This application is designed to interact with the "llmware_module," which presumably contains functions for sentiment analysis, emotion detection, tag generation, topic identification, intent analysis, ratings retrieval, category extraction, named entity recognition (NER), and natural language inference (NLI).
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 Script [llmware_module.py]
 
